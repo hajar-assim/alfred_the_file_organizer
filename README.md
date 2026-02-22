@@ -1,6 +1,14 @@
+# Is this you?
+<img width="748" height="797" alt="image" src="https://github.com/user-attachments/assets/4a8085d6-54f7-4385-bc6d-b39b80441488" />
+If you're like me you probably have an insanely messy file system with screenshots, random downloads, lecture notes etc. Well sure, this is fine at most times, but what about when you're trying to submit your assignment at 11:57 with a minute and 15 seconds on the clock to find your file and you are absolutely a mess of stress and CANNOT find the file you're supposed to submit? 11:59 hits and boom, you refresh. The file submission drop-box is locked, and you officially got a fat 0. Well yes, you could have better time management skills and do that boring ass assignment earlier, but why when you could just have a sexy file-system that makes it super easy to locate anything your looking for?
+
+Don't you want your files to look beautiful like mine??
+<img width="898" height="272" alt="image" src="https://github.com/user-attachments/assets/cf63164e-ef0e-43e9-b857-5f47cfcf3668" />
+
+
 # Alfred
 
-Your personal file butler. Automatically organizes files based on rules and learns from your existing folder structure.
+In comes your personal file butler, Alfred (yes I'm 22 and still watch Batman). Alfred automatically organizes files based on rules and learns from your existing folder structure, so no more sitting for hours dragging and dropping and organizing, only for you to stop the next day and have it turn into disarray in a couple months.
 
 ## Features
 
@@ -9,6 +17,8 @@ Your personal file butler. Automatically organizes files based on rules and lear
 - **Dry-run mode:** Preview changes before moving files
 - **Watch mode:** Auto-organize files as they appear
 - **Smart matching:** Only moves files when confident
+
+
 
 ## Installation
 
